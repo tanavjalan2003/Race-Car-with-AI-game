@@ -1,7 +1,7 @@
 # Racing Game Simulator
 
 Welcome to the **Racing Game Simulator**, an engaging arcade-style game designed for fun, challenges, and dynamic gameplay. Navigate through maps, avoid traffic, and race against time while collecting flags to boost your score.
-![Screenshot of Rcaecar Game](images/racecar-game.png)
+![Screenshot of Rcaecar Game](racecar-game.png)
 ---
 
 ## Table of Contents
