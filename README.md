@@ -69,6 +69,7 @@ project-root/
 1. **Run the Game**  
    Execute the game by running the main script:  
    ```bash
+   pip3 install pygame
    python MAIN.py
    ```
 2. **Navigate Your Car**  
